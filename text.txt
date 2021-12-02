@@ -1,1 +1,4 @@
-change made
+Checking out the new branch called waiting.
+Interesting work being done here.
+Trying to create conflict
+Checking out how the various branches work in git
