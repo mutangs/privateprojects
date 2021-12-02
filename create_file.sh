@@ -1,4 +1,5 @@
 #!bin/bash
+#This script will help you create a file and add content into that file
 echo "What is the name of the file you want to create?"
 read filename
 echo "Your file name is $filename"
